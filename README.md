@@ -6,7 +6,11 @@ Control your system volume using hand gestures with this **computer vision-based
 This project leverages **OpenCV**, **MediaPipe**, and the **PyCaw audio control library** to track hand movements via a webcam and adjust system volume dynamically based on finger distance.
 
 ## **Demo** 🎥
-![Demo GIF](https://your-image-link.com)  
+ 
+
+https://github.com/user-attachments/assets/a6a6527e-e9aa-4bbe-88f2-4beff66cf01a
+
+
 
 ## **Features** 🚀
 ✔️ Real-time hand tracking using **MediaPipe**
